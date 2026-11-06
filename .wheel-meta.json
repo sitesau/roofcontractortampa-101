@@ -1,0 +1,22 @@
+{
+  "wheel_id": 785,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-101",
+  "project": "roof-repair-tampa-timeline-31c569b78a94e6a0089e70b7ebfd5faab9a8",
+  "parent_t1_ref": "roofcontractortampa-150",
+  "node_role": "feeder",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repair tampa timeline",
+  "intended_url": "https://sitesau.github.io/roofcontractortampa-101/",
+  "tier": "T2",
+  "writeback_nonce": "b168ecccea7cca4b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/roof-repair-tampa-ea2e27db0789ff2776bd25c4700e13ce08086f3f/",
+      "anchor": "Roof Repair Tampa: Evidence before quotes",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
